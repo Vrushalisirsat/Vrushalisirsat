@@ -1,8 +1,8 @@
 ### Hi, I'm Vrushali Sirsath! 👋
 
 
-- 🔭 I’m currently working on a my first project.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on logic building in JAVA.
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on new project. 
 - 🤔 I’m looking for help with Back-end .
 - 💬 Ask me about Java,C++,C,HTML,CSS or any technical related stuff.
